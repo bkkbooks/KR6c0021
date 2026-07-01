@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0021/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利所說般若波羅蜜經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0233.xml
+    old_id: T08n0233
+hash: sha256:cac5b3f0ca48d1299711554bec186247ccfb5f1e74f06f281d2115a5b0ad009f
