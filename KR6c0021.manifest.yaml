@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6c0021_000.yaml, hash: 'sha256:cac5b3f0ca48d1299711554bec186247ccfb5f1e74f06f281d2115a5b0ad009f'}
   - {seq: 1, filename: KR6c0021_001.yaml, hash: 'sha256:c5b5b5b7acaee27c0df5cae7bd9fdb66007e3744001d715f05853b0fec11c71e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0021_000.markers.yaml, hash: 'sha256:8bfddaec1fda99cd7f7fb3eb66c1b427b483412aece9dcabf7492ccd5893f290'}
+  - {seq: 0, role: markers, filename: assets/KR6c0021_000.markers.yaml, hash: 'sha256:33a5481496b300da1da5ee1c4a0ee7f0d32c9f6f1fd9cad168654410f78eb823'}
   - {seq: 1, role: markers, filename: assets/KR6c0021_001.markers.yaml, hash: 'sha256:19a20d2e4a2f1d64f7870aef2255bb272af1f78403ab6d1aaa1c2acb5735dbfa'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 文殊師利所說般若波羅蜜經
   type: juan
   level: 1
-hash: sha256:cf54f6c20d1c7e3a96c237936b2302610fd088cc2a44b19a2542596465738013
+hash: sha256:b113108cb08c8831fb07d7a44fa4ef7d5ffba5120090233f449d14a864133c8d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
